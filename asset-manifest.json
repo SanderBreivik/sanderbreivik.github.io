@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sanderbreivik.io/static/css/main.af89cbdd.css",
-    "main.js": "/sanderbreivik.io/static/js/main.135b393d.js",
-    "static/js/787.7228b27c.chunk.js": "/sanderbreivik.io/static/js/787.7228b27c.chunk.js",
-    "index.html": "/sanderbreivik.io/index.html",
-    "main.af89cbdd.css.map": "/sanderbreivik.io/static/css/main.af89cbdd.css.map",
-    "main.135b393d.js.map": "/sanderbreivik.io/static/js/main.135b393d.js.map",
-    "787.7228b27c.chunk.js.map": "/sanderbreivik.io/static/js/787.7228b27c.chunk.js.map"
+    "main.css": "/static/css/main.af89cbdd.css",
+    "main.js": "/static/js/main.30508f17.js",
+    "static/js/787.7228b27c.chunk.js": "/static/js/787.7228b27c.chunk.js",
+    "index.html": "/index.html",
+    "main.af89cbdd.css.map": "/static/css/main.af89cbdd.css.map",
+    "main.30508f17.js.map": "/static/js/main.30508f17.js.map",
+    "787.7228b27c.chunk.js.map": "/static/js/787.7228b27c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af89cbdd.css",
-    "static/js/main.135b393d.js"
+    "static/js/main.30508f17.js"
   ]
 }
